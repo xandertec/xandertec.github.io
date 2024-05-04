@@ -7,7 +7,9 @@
 
 ## Work Experience
 ***Sr. Network Systems Administrator @ Extreme Networks (November 2023 - Present)***
-
+Manage mutiple labs in a wireless testing facility
+Configured and deployed Extreme switches and access points, as well as setup servers
+Managed an inventory of Access points
 
 
 ***Associate Field Network Engineer @ Impact Networking (May 2021 - July 2023)***
